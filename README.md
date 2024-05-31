@@ -1,6 +1,3 @@
-# age-calculater
-calculates the age in terms of years, months and days.
-<br>
-This is my first github repository
-<br>
+# calculater
+Basic calculater with which you can perform the addition, subtraction, multiplication and last division
 Author - Koushik
